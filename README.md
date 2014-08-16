@@ -1,7 +1,8 @@
 [install][github-url]
 =====================
 
-A bunch of scripts that for installing software.
+A bunch of scripts for installing software which ins't avaiable in popular pacakage managers. 
+e.g. [SDL2][sdl2]
 
 
 Disclaimer
@@ -15,3 +16,4 @@ If in doubt, **do not run the scripts.**
 
 [github-url]: https://github.com/nathanrosspowell/install "'install' project, by Nathan Ross Powell"
 [forkbomb]: http://en.wikipedia.org/wiki/Fork_bomb "In computing, a fork bomb is a denial-of-service attack"
+[sdl2]: https://www.libsdl.org/ "Simple DirectMedia Layer is a cross-platform development library"
